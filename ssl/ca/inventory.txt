@@ -1,0 +1,8 @@
+0x0001 2018-04-02T16:21:35UTC 2023-04-02T16:21:35UTC /CN=Puppet CA generated on marusani1.mylabserver.com at 2018-04-03 16:21:26 +0000
+0x0002 2018-04-02T16:21:41UTC 2023-04-02T16:21:41UTC /CN=marusani1.mylabserver.com
+0x0003 2018-04-02T16:24:37UTC 2023-04-02T16:24:37UTC /CN=pe-internal-dashboard
+0x0004 2018-04-02T16:27:45UTC 2023-04-02T16:27:45UTC /CN=pe-internal-mcollective-servers
+0x0005 2018-04-02T16:27:50UTC 2023-04-02T16:27:50UTC /CN=pe-internal-peadmin-mcollective-client
+0x0006 2018-04-02T16:27:58UTC 2023-04-02T16:27:58UTC /CN=pe-internal-puppet-console-mcollective-client
+0x0007 2018-04-02T16:28:20UTC 2023-04-02T16:28:20UTC /CN=pe-internal-broker
+0x0008 2018-04-02T16:46:58UTC 2023-04-02T16:46:58UTC /CN=marusani2.mylabserver.com
