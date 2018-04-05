@@ -46,4 +46,6 @@ node "marusani2.mylabserver.com" {
 
 include demo
 include testssh
+include ntp
+include apache
 }
